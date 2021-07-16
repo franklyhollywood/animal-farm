@@ -30,7 +30,7 @@ document.addEventListener('keydown', (event) => {
 	}
 
 	if (event.key === 'h') {
-		horse(); // calling my function -- cooking my dish
+		horse();
 	}
 
 	if (event.key === 'd') {
